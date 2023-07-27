@@ -129,7 +129,7 @@ def bot():
     data = request.get_json()
     message_type = data['message_type']
     message = data['content_attributes']['submitted_values'][0]['value']
-    conversation = data['conversation']['display_id']
+    conversation = data['conversation']['id']
     contact = data['sender']['id']
     account = data['account']['id']
 
@@ -145,7 +145,7 @@ def greeting():
     data = request.get_json()
     message_type = data['message_type']
     message = data['content_attributes']['submitted_values'][0]['value']
-    conversation = data['conversation']['display_id']
+    conversation = data['conversation']['id']
     contact = data['sender']['id']
     account = data['account']['id']
 
