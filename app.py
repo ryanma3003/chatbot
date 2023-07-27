@@ -156,4 +156,4 @@ def greeting():
     return create_message
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0')
+    app.run(host='192.168.100.25')
