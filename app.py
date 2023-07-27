@@ -6,8 +6,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.svm import LinearSVC
 from difflib import SequenceMatcher
-from flask import Flask, render_template
+from flask import Flask
 from flask_socketio import SocketIO
+from pprint import pprint
 
 app = Flask(__name__)
 socketio = SocketIO(app)
@@ -15,9 +16,33 @@ socketio = SocketIO(app)
 chatwoot_url = 'http://192.168.100.43:3000'
 chatwoot_bot_token = 'Ux43bL2Bxtq4sQfNCtbmSfrX'
 
+def greet():
+    data = {
+        'content': 'Halo selamat datang, bot kami akan membantu Anda.',
+        'content_type': 'input_select',
+        'content_attributes': {
+            "items": [
+                {
+                    "title": "Apa itu Paten",
+                    "value": "apa yang dimaksud paten"
+                },
+                {
+                    "title": "Apa itu invensi",
+                    "value": "apa yang dimaksud invensi"
+                },
+                {
+                    "title": "Apa itu Paten Sederhana",
+                    "value": "apa yang dimaksud paten sederhana"
+                }
+            ],
+        },
+    }
+
+    return data
+
 # function untuk mengambil pesan
 def send_to_bot(sender, message):
-    data = {
+    data_rasa = {
         'sender': sender,
         'message': message
     }
@@ -26,6 +51,7 @@ def send_to_bot(sender, message):
 
     # r = requests.post(f'{rasa_url}/webhooks/rest/webhook',
     #                   json=data, headers=headers)
+    # return r.json()[0]['text']
     
     question_vector = vectorizer.transform([message])
     predicted_class = classifier.predict(question_vector)[0]
@@ -33,7 +59,13 @@ def send_to_bot(sender, message):
     best_answer_index = np.argmax(similarity_scores)
 
     if similarity_scores[best_answer_index] > 0.7:
-        return faq_answers[best_answer_index]
+        message = faq_answers[best_answer_index]
+    
+        data = {
+            'content' : message
+        }
+
+        return data
     else:
         similar_questions = []
         for i, q in enumerate(faq_data):
@@ -42,16 +74,19 @@ def send_to_bot(sender, message):
                 similar_questions.append(faq_data[i])
 
         if similar_questions:
-            return "Apakah yang Anda maksud dengan:\n" + "\n".join(similar_questions)
+            message = "Apakah yang Anda maksud dengan:\n" + "\n".join(similar_questions)
         else:
-            return "Maaf, saya tidak mengerti pertanyaan Anda."
-    # return r.json()[0]['text']
+            message = "Maaf, saya tidak mengerti pertanyaan Anda."
+    
+        data = {
+            'content' : message
+        }
+
+        return data
 
 # function untuk mengirim pesan
-def send_to_chatwoot(account, conversation, message):
-    data = {
-        'content': message
-    }
+def send_to_chatwoot(account, conversation, data_json):
+    data = data_json
     url = f"{chatwoot_url}/api/v1/accounts/{account}/conversations/{conversation}/messages"
     headers = {"Content-Type": "application/json",
                "Accept": "application/json",
@@ -88,42 +123,13 @@ faq_vectors = vectorizer.fit_transform(faq_data)
 classifier = LinearSVC()
 classifier.fit(faq_vectors, np.arange(len(faq_data)))
 
-# Fungsi untuk mendapatkan jawaban terbaik atau opsi pilihan
-def get_best_answer(question):
-    # Vektorisasi pertanyaan
-    question_vector = vectorizer.transform([question])
-
-    # Prediksi kelas pertanyaan
-    predicted_class = classifier.predict(question_vector)[0]
-
-    # Menghitung skor cosine similarity
-    similarity_scores = cosine_similarity(question_vector, faq_vectors)[0]
-
-    # Mengambil jawaban dengan skor tertinggi
-    best_answer_index = np.argmax(similarity_scores)
-
-    if similarity_scores[best_answer_index] > 0.7:
-        return faq_answers[best_answer_index]
-    else:
-        # Mencari pertanyaan serupa
-        similar_questions = []
-        for i, q in enumerate(faq_data):
-            similarity_ratio = SequenceMatcher(None, question, q).ratio()
-            if similarity_ratio > 0.7:  # Menentukan batas kemiripan yang diinginkan
-                similar_questions.append(faq_data[i])
-
-        if similar_questions:
-            return "Apakah yang Anda maksud dengan:\n" + "\n".join(similar_questions)
-        else:
-            return "Maaf, saya tidak mengerti pertanyaan Anda."
-
 # Route for create outgoing and incoming message chatwoot
 @app.route("/", methods=['POST'])
 def bot():
     data = request.get_json()
     message_type = data['message_type']
-    message = data['content']
-    conversation = data['conversation']['id']
+    message = data['content_attributes']['submitted_values'][0]['value']
+    conversation = data['conversation']['display_id']
     contact = data['sender']['id']
     account = data['account']['id']
 
@@ -133,5 +139,21 @@ def bot():
             account, conversation, bot_response)
     return create_message
 
+# Route for webhook event start conversation
+@app.route("/webhook", methods=['POST'])
+def greeting():
+    data = request.get_json()
+    message_type = data['message_type']
+    message = data['content_attributes']['submitted_values'][0]['value']
+    conversation = data['conversation']['display_id']
+    contact = data['sender']['id']
+    account = data['account']['id']
+
+    if(message_type == "incoming"):
+        bot_response = greet()
+        create_message = send_to_chatwoot(
+            account, conversation, bot_response)
+    return create_message
+
 if __name__ == "__main__":
-    app.run(debug=1)
+    app.run(host='0.0.0.0')
