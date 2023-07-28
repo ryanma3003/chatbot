@@ -135,7 +135,7 @@ def bot():
         contact = data['sender']['id']
         account = data['account_id']
 
-        bot_response = greet(contact, message)
+        bot_response = greet()
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
         
