@@ -128,12 +128,23 @@ classifier.fit(faq_vectors, np.arange(len(faq_data)))
 def bot():
     data = request.get_json()
     message_type = data['message_type']
-    message = data['content_attributes']['submitted_values'][0]['value']
-    conversation = data['conversation']['id']
-    contact = data['sender']['id']
-    account = data['account']['id']
 
     if(message_type == "incoming"):
+        message = data['content']
+        conversation = data['conversation_id']
+        contact = data['sender']['id']
+        account = data['account_id']
+
+        bot_response = greet(contact, message)
+        create_message = send_to_chatwoot(
+            account, conversation, bot_response)
+        
+    elif(message_type == "outgoing"):
+        message = data['content_attributes']['submitted_values'][0]['value']
+        conversation = data['conversation_id']
+        contact = data['sender']['id']
+        account = data['account_id']
+
         bot_response = send_to_bot(contact, message)
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
