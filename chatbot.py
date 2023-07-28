@@ -131,9 +131,9 @@ def bot():
 
     if(message_type == "incoming"):
         message = data['content']
-        conversation = data['conversation_id']
+        conversation = data['conversation']['id']
         contact = data['sender']['id']
-        account = data['account_id']
+        account = data['account']['id']
 
         bot_response = greet()
         create_message = send_to_chatwoot(
@@ -141,9 +141,9 @@ def bot():
         
     elif(message_type == "outgoing"):
         message = data['content_attributes']['submitted_values'][0]['value']
-        conversation = data['conversation_id']
+        conversation = data['conversation']['id']
         contact = data['sender']['id']
-        account = data['account_id']
+        account = data['account']['id']
 
         bot_response = send_to_bot(contact, message)
         create_message = send_to_chatwoot(
