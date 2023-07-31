@@ -198,7 +198,7 @@ def bot():
     content_type = data['content_type']
     message_type = data['message_type']
         
-    if("submitted_values" in data):
+    if("submitted_values" in data and message_type == 'outgoing'):
         message = data['content_attributes']['submitted_values'][0]['value']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
