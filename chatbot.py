@@ -226,6 +226,8 @@ def bot():
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
         
+        return create_message
+        
     elif(message_type == 'incoming' and content_type == 'text'): 
         message = data['content']
         conversation = data['conversation']['id']
@@ -236,7 +238,7 @@ def bot():
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
         
-    return create_message
+        return create_message
 
 # Route for webhook event start conversation
 @app.route("/webhook", methods=['POST'])
