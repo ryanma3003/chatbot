@@ -194,6 +194,7 @@ def send_to_chatwoot(account, conversation, data_json):
 @app.route("/", methods=['POST'])
 def bot():
     data = request.get_json()
+    pprint(data)
     message_type = data['message_type']
 
     if(message_type == "incoming"):
@@ -207,7 +208,6 @@ def bot():
             account, conversation, bot_response)
         
     elif(message_type == "outgoing"):
-        pprint(data)
         message = data['content_attributes']['submitted_values'][0]['value']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
