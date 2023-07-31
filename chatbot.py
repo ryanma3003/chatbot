@@ -235,4 +235,4 @@ def greeting():
     return create_message
 
 if __name__ == "__main__":
-    socketio.run(app, host='192.168.100.25')
+    app.run(host='192.168.100.25')
