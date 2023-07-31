@@ -207,6 +207,7 @@ def bot():
             account, conversation, bot_response)
         
     elif(message_type == "outgoing"):
+        pprint(data)
         message = data['content_attributes']['submitted_values'][0]['value']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
@@ -234,4 +235,4 @@ def greeting():
     return create_message
 
 if __name__ == "__main__":
-    app.run(host='192.168.100.25')
+    socketio.run(app, host='192.168.100.25')

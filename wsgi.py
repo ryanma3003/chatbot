@@ -1,4 +1,4 @@
-from chatbot import app
+from chatbot import app, socketio
 
 if __name__ == "__main__":
-    app.run()
+    socketio.run(app)
