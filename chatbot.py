@@ -197,8 +197,17 @@ def bot():
     pprint(data)
     content_type = data['content_type']
     message_type = data['message_type']
+        
+    if("submitted_values" in data):
+        message = data['content_attributes']['submitted_values'][0]['value']
+        conversation = data['conversation']['id']
+        contact = data['sender']['id']
+        account = data['account']['id']
 
-    if(content_type == "text"):
+        bot_response = get_best_answer(message)
+        create_message = send_to_chatwoot(
+            account, conversation, bot_response)
+    else: 
         message = data['content']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
@@ -208,15 +217,6 @@ def bot():
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
         
-    elif(content_type == "input_select"):
-        message = data['content_attributes']['submitted_values'][0]['value']
-        conversation = data['conversation']['id']
-        contact = data['sender']['id']
-        account = data['account']['id']
-
-        bot_response = get_best_answer(message)
-        create_message = send_to_chatwoot(
-            account, conversation, bot_response)
     return create_message
 
 # Route for webhook event start conversation
