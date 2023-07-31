@@ -195,9 +195,10 @@ def send_to_chatwoot(account, conversation, data_json):
 def bot():
     data = request.get_json()
     pprint(data)
+    content_type = data['content_type']
     message_type = data['message_type']
 
-    if(message_type == "incoming"):
+    if(content_type == "text"):
         message = data['content']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
@@ -207,7 +208,7 @@ def bot():
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
         
-    elif(message_type == "outgoing"):
+    elif(content_type == "input_select"):
         message = data['content_attributes']['submitted_values'][0]['value']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
