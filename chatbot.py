@@ -190,6 +190,24 @@ def send_to_chatwoot(account, conversation, data_json):
                       json=data, headers=headers)
     return r.json()
 
+def keys_exists(element, *keys):
+    '''
+    Check if *keys (nested) exists in `element` (dict).
+    '''
+    if not isinstance(element, dict):
+        raise AttributeError('keys_exists() expects dict as first argument.')
+    if len(keys) == 0:
+        raise AttributeError('keys_exists() expects at least two arguments, one given.')
+
+    _element = element
+    for key in keys:
+        try:
+            _element = _element[key]
+        except KeyError:
+            return False
+    return True
+
+
 # Route for create outgoing and incoming message chatwoot
 @app.route("/", methods=['POST'])
 def bot():
@@ -198,7 +216,7 @@ def bot():
     content_type = data['content_type']
     message_type = data['message_type']
         
-    if("submitted_values" in data and message_type == 'outgoing'):
+    if(keys_exists(data, 'content_attributes', 'submitted_values') == True and message_type == 'outgoing' and content_type == 'input_select'):
         message = data['content_attributes']['submitted_values'][0]['value']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
@@ -207,7 +225,8 @@ def bot():
         bot_response = get_best_answer(message)
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
-    else: 
+        
+    elif(message_type == 'incoming' and content_type == 'text'): 
         message = data['content']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
