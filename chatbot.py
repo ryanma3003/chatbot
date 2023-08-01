@@ -189,9 +189,8 @@ def bot():
     pprint(data)
     content_type = data['content_type']
     message_type = data['message_type']
-    event = data['event']
         
-    if(keys_exists(data, 'content_attributes', 'submitted_values') == True and message_type == 'outgoing' and content_type == 'input_select' and event == 'message_updated'):
+    if(keys_exists(data, 'content_attributes', 'submitted_values') == True and message_type == 'outgoing' and content_type == 'input_select'):
         message = data['content_attributes']['submitted_values'][0]['value']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
