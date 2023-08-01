@@ -186,7 +186,6 @@ def keys_exists(element, *keys):
 @app.route("/", methods=['POST'])
 def bot():
     data = request.get_json()
-    pprint(data)
     content_type = data['content_type']
     message_type = data['message_type']
         
@@ -202,7 +201,7 @@ def bot():
         
         return create_message
         
-    if(keys_exists(data, 'content_attributes', 'submitted_values') == False and message_type == 'outgoing' and content_type == 'input_select'):
+    if(keys_exists(data, 'content_attributes', 'submitted_values') == False and message_type == 'outgoing'):
         message = data['content']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
