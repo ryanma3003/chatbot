@@ -116,40 +116,14 @@ def get_best_answer(question):
 
             # returned data for similar question, need more logic to escalate the option
             data = {
-                'content': answer,
-                'content_type': 'input_select',
-                'content_attributes': {
-                    "items": [
-                        {
-                            "title": "Apa itu Paten",
-                            "value": "apa yang dimaksud paten"
-                        },
-                        {
-                            "title": "Apa itu invensi",
-                            "value": "apa yang dimaksud invensi"
-                        },
-                        {
-                            "title": "Apa itu Paten Sederhana",
-                            "value": "apa yang dimaksud paten sederhana"
-                        }
-                    ],
-                },
+                'content': answer
             }
         else:
-            answer = "Maaf, saya tidak mengerti pertanyaan Anda."
+            answer = "Maaf, saya tidak mengerti pertanyaan yang dimaksud. Kami akan menyambungkan anda dengan agent kami"
 
             # returned data for failure, need more logic for handover to live agent
             data = {
-                'content': answer,
-                'content_type': 'input_select',
-                'content_attributes': {
-                    "items": [
-                        {
-                            "title": "Bertanya dengan live agent",
-                            "value": "live agent"
-                        }
-                    ],
-                },
+                'content': answer
             }
 
         return data
@@ -217,7 +191,7 @@ def bot():
     message_type = data['message_type']
     event = data['event']
         
-    if(event == 'message_updated'):
+    if(keys_exists(data, 'content_attributes', 'submitted_values') == True and message_type == 'outgoing' and content_type == 'input_select' and event == 'message_updated'):
         message = data['content_attributes']['submitted_values'][0]['value']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
@@ -229,7 +203,19 @@ def bot():
         
         return create_message
         
-    elif(event == 'message_created'): 
+    if(keys_exists(data, 'content_attributes', 'submitted_values') == False and message_type == 'outgoing' and content_type == 'input_select'):
+        message = data['content']
+        conversation = data['conversation']['id']
+        contact = data['sender']['id']
+        account = data['account']['id']
+
+        bot_response = get_best_answer(message)
+        create_message = send_to_chatwoot(
+            account, conversation, bot_response)
+        
+        return create_message
+        
+    elif(message_type == 'incoming' and content_type == 'text'): 
         message = data['content']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
@@ -258,4 +244,4 @@ def greeting():
     return create_message
 
 if __name__ == "__main__":
-    app.run(host='192.168.100.25')
+    app.run(host='0.0.0.0')
