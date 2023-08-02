@@ -201,18 +201,6 @@ def bot():
         
         return create_message
         
-    if(keys_exists(data, 'content_attributes', 'submitted_values') == False and message_type == 'outgoing'):
-        message = data['content']
-        conversation = data['conversation']['id']
-        contact = data['sender']['id']
-        account = data['account']['id']
-
-        bot_response = get_best_answer(message)
-        create_message = send_to_chatwoot(
-            account, conversation, bot_response)
-        
-        return create_message
-        
     elif(message_type == 'incoming' and content_type == 'text'): 
         message = data['content']
         conversation = data['conversation']['id']
