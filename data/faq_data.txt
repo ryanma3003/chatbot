@@ -1,3 +1,373 @@
-1. Apa yang dimaksud Paten?|Paten adalah hak eksklusif yang diberikan oleh negara kepada inventor atas hasil invensinya di bidang teknologi untuk jangka waktu tertentu melaksanakan sendiri invensi tersebut atau memberikan persetujuan kepada pihak lain untuk melaksanakannya
-2. Apa yang dimaksud Invensi?|Invensi adalah ide inventor yang dituangkan ke dalam suatu kegiatan pemecahan masalah yang spesifik di bidang teknologi. dapat berupa produk atau proses atau penyempurnaan dan pengembangan produk atau proses
-3. Apa yang dimaksud Paten sederhana?|Setiap invensi berupa produk atau alat yang baru dan mempunyai nilai kegunaan praktis disebabkan karena bentuk, konfigurasi, konstruksi atau komponennya dapat memperoleh perlindungan hukum dalam bentuk paten sederhana
+1.   Apa yang dimaksud Paten?|Paten adalah hak eksklusif yang diberikan oleh negara kepada inventor atas hasil invensinya di bidang teknologi untuk jangka waktu tertentu melaksanakan sendiri invensi tersebut atau memberikan persetujuan kepada pihak lain untuk melaksanakannya
+2.   Apa yang dimaksud Invensi?|Invensi adalah ide inventor yang dituangkan ke dalam suatu kegiatan pemecahan masalah yang spesifik di bidang teknologi. dapat berupa produk atau proses atau penyempurnaan dan pengembangan produk atau proses
+3.   Apa yang dimaksud Paten sederhana?|Setiap invensi berupa produk atau alat yang baru dan mempunyai nilai kegunaan praktis disebabkan karena bentuk, konfigurasi, konstruksi atau komponennya dapat memperoleh perlindungan hukum dalam bentuk paten sederhana
+4.   Perbedaan paten biasa dengan paten sederhana?|Paten diberikan untuk invensi yang baru, mengandung langkah inventif, dan dapat diterapkan dalam industri. Sementara paten sederhana diberikan untuk setiap invensi baru, pengembangan dari produk atau proses yang telah ada, dan dapat diterapkan dalam industri. Paten sederhana diberikan untuk invensi yang berupa produk yang bukan sekadar berbeda ciri teknisnya, tetapi harus memiliki fungsi/kegunaan yang lebih praktis daripada invensi sebelumnya yang disebabkan bentuk, konfigurasi, konstruksi, atau komponennya yang mencakup alat, barang, mesin, komposisi, formula, senyawa, atau sistem. Paten sederhana juga diberikan untuk invensi yang berupa proses atau metode yang baru.Klaim paten sederhana dibatasi dengan satu klaim mandiri, sedangkan paten jumlah klaimnya tidak dibatasi.Progres teknologi dalam paten sederhana lebih simpel daripada progres teknologi dalam paten.
+5.   Kapan invensi dapat dipantenkan?|Invensi dapat dipatenkan jika invensi tersebut1. Baru. Jika pada saat pengajuan permohonan Paten invensi tersebut tidak sama dengan teknologi yang diungkapkan sebelumnya;2. Mengandung langkah inventif. Jika invensi tersebut merupakan hal yang tidak dapat diduga sebelumnya bagi seseorang yang mempunyai keahlian tertentu di bidang teknik;3. Dapat diterapkan dalam industri. Jika invensi tersebut dapat diproduksi atau dapat digunakan dalam berbagai jenis industri.
+6.   Berapa lama Paten berlaku?|1. Paten diberikan untuk jangka waktu selama 20 tahun sejak tanggal penerimaan permohonan Paten.2. Paten sederhana diberikan untuk jangka waktu 10 tahun sejak tanggal penerimaan permohonan Paten sederhana.
+7.   Prosedur Pendaftaran Paten|Data Dukung yang Diunggah :Deskripsi Permohonan Paten dalam Bahasa Indonesia;Klaim;Abstrak;Gambar Invensi (PDF) dan Gambar untuk Publikasi (JPG);Surat Pernyataan Kepemilikan Invensi oleh Inventor;Surat Pengalihan Hak (jika inventor dan pemohon berbeda atau pemohon merupakan badan hukum);Surat Kuasa (jika diajukan melalui konsultan);Surat Keterangan UMK (jika pemohon merupakan usaha mikro atau usaha kecil);SK Akta Pendirian (jika pemohon merupakan lembaga pendidikan atau litbang pemerintah);
+8.   Alur Bisnis Pendaftaran Paten|
+9.   Alur Bisnis Pendaftaran Paten Sederhana|
+10.   Kelengkapan formalitas Paten|Data Dukung yang Diunggah :Deskripsi Permohonan Paten dalam Bahasa Indonesia;Klaim;Abstrak;Gambar Invensi (PDF) dan Gambar untuk Publikasi (JPG);Surat Pernyataan Kepemilikan Invensi oleh Inventor;Surat Pengalihan Hak (jika inventor dan pemohon berbeda atau pemohon merupakan badan hukum);Surat Kuasa (jika diajukan melalui konsultan);Surat Keterangan UMK (jika pemohon merupakan usaha mikro atau usaha kecil);SK Akta Pendirian (jika pemohon merupakan lembaga pendidikan atau litbang pemerintah);
+11.   Klasifikasi paten adalah?|Sistem klasifikasi paten untuk memudahkan inventor dalam menentukan kelasnya berdasarkan daftar alphabet dan dapat diakses pada https://www.wipo.int/classifications/ipc/en/
+12.   Pengumuman/(Publikasi) paten adalah?|Adalah masa bagi sebuah permohonan paten baru untuk dipublikasikan/diumumkan di Berita Resmi Paten sebelum pemeriksaan subtantif – yang mencakup data bibliografi, nomor publikasi, tanggal publikasi, abstrak dan gambar – untuk memberikan kesempatan bagi masyarakat yang akan mengajukan sanggahan. Lamanya publikasi paten biasa adalah 6 bulan, dan paten sederhana 3 bulan
+13.   Pemeriksaan subtantif paten adalah?|Pemeriksaan terhadap invensi/paten yang didaftarkan dalam rangka menilai pemenuhan atas syarat: baru, langkah inventif dan dapat diterapkan dalam industri, serta memenuhi ketentuan kesatuan invensi, diungkapkan secara jelas, dan tidak termasuk dalam kategori invensi yang tidak dapat diberi paten
+14.   Upaya jika paten ditolak?|Pemohon dapat mengajukan tanggapan atas usul tolak agar permohonannya dapat diperiksa kembali
+15.   Upaya jika tanggapan atas usul tolak paten ditolak?|Pemohon dapat mengajukan keberatan ke Komisi Banding dengan data dukung:Surat hasil pemeriksaan subtantif tahap awal dan tahap lanjut Surat penolakan atas tanggapan usul tolak dari pemohonBukti pembayaran
+16.   Apa proses administrasi yang harus dilakukan jika pemilik paten merubah kewarganegaraan ketika patennya masih dalam jangka waktu pelindungan?|Ajukan perubahan data kewarganeraan
+17.   Berapa lama masa berlaku Kode Billing yang telah dibayarkan?|Kode biling yang sudah dibayar
+berlaku hingga 31 Desember di tahun yang sama. Contoh: Memesan dan membayar
+kode billing 2 Februari 2021 dan 17 Juli 2021 sama-sama memiliki masa
+kadaluarsa di tanggal 31 Desember 2021 dalam hal penggunaannya
+18.   Apakah kode billing yang sudah dibayar dapat diajukan pengembalian/refund?|Ya/Bisa
+19.   Kapan kode billing yang sudah dibayar dapat diajukan pengembalian/refund?|Ketika kode billing sudah dibayar namun belum digunakan untuk
+permohonan kekayaan intelektual.Ketika kode billing sudah dibayar belum namun telah terinput pada
+aplikasi iproline atau permohonan masih dalam bentuk draft.
+Contoh: Pemohon memesan dan membayar kode
+billing, lalu pemohon mengajukan pemohonan baru atau pasca tanpa menyelesaikan
+sampai tahap/step akhir sehingga
+permohonan tersebut akan tersimpan dalam bentuk draft.
+20.   Bagaimana cara membatalkan draft permohonan pada aplikasi iproline?|Pemohon dapat
+mengajukan pembatalan draft
+permohonan yang telah diajukan dengan melalui layanan informasi DJKI yang
+tersedia seperti call center, livechat, email, dan media sosial dengan
+menyebutkan IPT (nomor transaksi) yang tertera di aplikasi. Setelah IPT/draft permohonan dibatalkan, pemohon
+dapat mengajukan permohonan pengembalian dana sesuai dengan prosedur yang telah
+ditentukan
+21.   Bagaimana syarat dan prosedur refund dana PNBP yang sudah terlanjur masuk?|Syarat: Surat Permohonan Pengembalian Dana (format surat tersedia di
+website DJKI) ditujukan kepada Sekretaris Direktorat Jenderal Kekayaan
+Intelektual dan dikirim ke surel Sub Bagian PNBP pnbpki2018@gmail.com dengan
+melampirkan:Lembar Kronologis (format surat 
+tersedia di website DJKI) Surat Pernyataan Tanggung Jawab Mutlak (SPTJM) (tersedia di
+website DJKI)Surat Kuasa apabila pengurusan dikuasakan kepada orang lain dan
+apabila nama wajib bayar berbeda dengan nama pada rekening pemohon (format
+surat tersedia di website DJKI)Copy KTP pemberi dan penerima kuasa Cover buku tabungan terbaru (tercantum KCP mana) dan rekening
+koran (Tercantum Nama, Nomor Rekening dan KCP)Surat Keterangan Rekening Aktif dari BankFoto copy NPWP (Penerima Dana)Foto copy KTP Bukti pembayaran yang asli (jika Kesalahan pembayaran dilampirkan
+copy slip pembayaran yg benar)Setiap dokumen refund berlaku untuk 1 kode billing. Jika
+permohonan refund lebih dari 5 kode billing, pemohon diharapkan berkonsultasi
+lebih dahulu melalui layanan informasiDokumen permohonan refund yang telah dikirim ke surel pnbpki2018@gmail.com akan diverifikasi. Pemohon akan diberikan
+informasi perihal kekurangan atau telah lengkapnya dokumen memalui surel. Setelah persyaratan refund dinyatakan lengkap, pemohon wajib
+menyerahkan/mengirimkan dokumen permohonan refund yang ASLI sebagai berikut: 1 (satu) rangkap Surat Permohonan Pengembalian Dana (tersedia di
+website DJKI) ditujukan kepada Sekretaris Direktorat Jenderal Kekayaan
+Intelektual (tanda tangan tanpa materai)2 (dua) rangkap Lembar Kronologis (format surat tersedia di
+website DJKI) 1 (satu) rangkap Surat Pernyataan Tanggung Jawab Mutlak (SPTJM)
+yang ASLI ditandatangan di atas materai 10.000 (format surat tersedia di
+website DJKI) Surat Kuasa apabila pengurusan dikuasakan kepada orang lain dan
+apabila nama wajib bayar berbeda dengan nama pada rekening pemohon (format
+surat tersedia di website DJKI) Copy KTP pemberi dan penerima kuasa Cover buku tabungan terbaru (tercantum KCP mana) dan rekening
+koran (Tercantum Nama, Nomor Rekening dan KCP)Surat Keterangan Rekening Aktif dari BankFoto copy NPWP (Penerima Dana)Foto copy KTP Bukti pembayaran yang asli (jika Kesalahan pembayaran dilampirkan
+copy slip pembayaran yg benar) Setiap dokumen permohonan refund berlaku untuk 1 kode billing.
+Jika pemohon mengajukan 2 (dua) kode billing maka jumlah dokumen yang
+diserahkan harus sesuai jumlahnya. Dokumen permohonan refund yang ASLI dapat diserahkan melalui loket persuratan DJKI atau dikirim ke
+alamat sebagai berikut: Direktorat Jenderal Kekayaan Intelektual 
+Kementerian Hukum dan HAM
+Jl. H.R. Rasuna Said Kav. 8-9 Kuningan Jakarta
+Selatan. (52940)
+Cq. Bagian Keuangan - Sub Bagian PNBP (Bagian
+Keuangan)
+22.   Bagaimana alur proses refund dana PNBP tahun anggaran berjalan?|*estimasi waktu
+penyelesaian pengembalian dapat berjalan lebih cepat atau lebih lambat
+tergantung kondisi tertentu
+23.   Bagaimana alur proses refund dana PNBP tahun anggaran lalu?|*Yang
+dimaksud Tahun anggaran lalu adalah Kode Billing yang dibayarkan dalam kurun
+waktu sejak tanggal 17 Agustus 2019 – 31 Desember 2020
+ Untuk
+pengembalian, berdasarkan PP No. 59 Tahun 2020,
+Permohonan
+refund berlaku maksimal 5 (lima) tahun sejak kode billing dibayarkan
+*estimasi waktu
+penyelesaian pengembalian dapat berjalan lebih cepat atau lebih lambat
+tergantung akan kondisi tertentu
+PMK No. 96/PMK.05/2017
+24.   Dimanakah surat Rekomendasi Usaha Mikro dan Usaha Kecil didapatkan dan surat seperti apa yang berlaku?|Surat Rekomendasi
+Usaha Mikro dan Usaha Kecil tersedia pada instansi berikut: Kementerian
+Koperasi dan UKM Kementerian
+Perindustrian Kementerian
+Perdagangan Dinas Koperasi
+& UKM Dinas
+Perindustrian & PerdaganganDetail wajib mencantumkan informasi sebagai berikut:Nama, jabatan dan unit organisasi yang mendatangani surat rekomendasiNama pemohonAlamat pemohonLabel merek (yang akan dimohonkan pendaftaran)Jenis barang/jasa (jika pemohon belum mengetahui kelas merek yang akan didaftar); atau kelas barang/jasa Notes:Dinas terkait mengikuti Domisili sesuai yang tertera pada Kartu Tanda PendudukDJKI tidak menerima dokumen berupa Izin Usaha Mikro dan Kecil (IUMK), Nomor Induk Berusaha (NIB) dan lainnya.Satu surat rekomendasi UMK dapat memuat/menyebutkan jumlah jenis barang/jasa  atau jumlah kelas yang akan didaftarkan
+25.   Berapa lama waktu yang diberikan untuk Pemohon dapat menjawab usulan penolakan?|Berdasarkan
+ketentuan Pasal 24 ayat (3) Undang-Undang Nomor 20 Tahun 2016 tentang Merek dan
+Indikasi Geografis, Pemohon atau kuasanya dapat menyampaikan tanggapan secara
+tertulis dengan menyebutkan alasannya kepada Direktorat Jenderal Kekayaan
+Intelektual (DJKI) dalam waktu paling
+lama 30 (tiga puluh) hari terhitung sejak tanggal pengiriman surat usul
+penolakan.
+26.   Bagaimana cara mengadukan pelanggaran Kekayaan Intelektual?|Pelanggaran Kekayaan Intelektual dapat dilaporkan
+dengan mengisi Formulir Pengaduan
+Tindak Pidana KI pada laman https://pengaduan.dgip.go.id/
+27.   Permohonan Pendaftaran (KI) atas nama badan hukum, KTP dan tanda tangan siapa yang harus diisikan?|Permohonan
+pendaftaran KI atas nama Badan Hukum diajukan dengan melampirkan KTP dan tanda
+tangan Direktur Perusahaan.
+28.   Berapa lama waktu yang diberikan untuk Pemohon dapat melengkapi kekurangan administratif?|Berdasarkan
+ketentuan Pasal 10 jo Pasal 11 ayat (3) dan pasal 11 ayat (2) jo Pasal 12
+Undang-Undang Nomor 20 Tahun 2016 Tentang Merek, agar kelengkapan persyaratan
+administratif tersebut dipenuhi paling lama:
+3 (tiga) bulan terhitung sejak
+berakhirnya jangka waktu pengajuan permohonan dengan menggunakan Hak Prioritas. Apabila tidak dipenuhi
+permohonan tersebut tetap diproses tetapi tanpa menggunakan Hak Prioritas. 2 (dua) bulan terhitung sejak
+tanggal pengiriman surat pemberitahuan untuk memenuhi kelengkapan persyaratan.
+Apabila tidak dipenuhi maka permohonan dianggap ditarik kembali.
+29.   Surat apa saja yang dibutuhkan untuk dapat melakukan magang di DJKI?|Surat permohonan dari yang bersangkutanSurat pengantar dari Lembaga/institusi ybsCVDokumen dikirim ke email kepeg.djki@gmail.com
+30.   Surat apa saja yang dibutuhkan untuk dapat melakukan permintaan data, wawancara dan penelitian di DJKI?|Surat permohonan penelitian dari yang bersangkutanSurat pengantar dari Lembaga/institusi yang bersangkutanDokumen dikirim
+ke email kepeg.djki@gmail.com
+31.   Apakah perbedaan antara Surat perjanjian dan Surat Pengalihan Hak?|Surat Perjanjian
+adalah surat kesepakatan antara kedua belah pihak atau lebih.
+Surat Pengalihan
+Hak adalah bukti bahwa telah mengalihkan hak (Jika Badan Hukum, menggunakan
+Notaris)
+32.   Bagaimana cara mengajukan pencatatan lisensi Rahasia Dagang?|Syarat Pencatatan
+Lisensi Rahasia Dagang:
+Bukti
+pembayaran permohonan (Kode billing didapatkan dari http://simpaki.dgip.go.id/ dengan memilih jenis pelayanan Paten >>
+Rahasia dagang) Surat kuasa
+(bila melalui konsultan) Surat
+permohonan pencatatan lisensi Salinan
+perjanjian lisensi Surat
+pernyataan
+33.   Bagaimanakah proses gugatan (Dalam Paten)?|1. Gugatan didaftarkan kepada pengadilan Niaga dalam wilayah hukum tempat tinggal atau domisili tergugat, 2. Dalam hal salah satu pihak bertempat tinggal di luar wilayah Indonesia, gugatan didaftarkan kepada Pengadilan Niaga Jakarta pusat. 3. Ketua Pengadilan Niaga menetapkan hari sidang dalam waktu paling lama 14 (empat belas) hari sejak tanggal gugatan didaftarkan.4. Sidang pemeriksaan atas gugatan dimulai dalam waktu paling lambat 60 (enam puluh) hari sejak tanggal gugatan didaftarkan.5. Juru sita melakukan pemanggilan para pihak paling lama 14 (empat belas) hari sebelum sidang pemeriksaan pertama diselenggarakan.
+34.   Berapa lama gugatan harus diputus (Dalam Paten)?|1. Putusan atas gugatan harus diucapkan paling lambat 180 (seratus delapan puluh) hari sejak tanggal gugatan didaftarkan.2. Putusan atas gugatan harus diucapkan dalam sidang terbuka untuk umum.3. Pengadilan Niaga wajib menyampaikan salinan putusan kepada para pihak yang tidak hadir paling lambat 14 (empat belas) hari sejak putusan diucapkan dalam sidang yang dinyatakan terbuka untuk umum.4. Pengadilan Niaga wajib menyampaikan salinan putusannya tentang penghapusan paten yang telah mempunyai kekuatan hukum tetap kepada Direktorat Jenderal Kekayaan Intelektual paling lama 14 (empat belas) hari sejak putusan diucapkan.5. Menteri mencatat dan mengumumkan amar putusan yang telah mempunyai kekuatan hukum tetap setelah menerima salinan putusan dari pengadilan Niaga.6. Dalam hal salinan putusan pengadilan tidak disampaikan oleh Ketua Pengadilan Niaga, Menteri tidak wajib mencatat dan mengumumkan amar putusan yang telah mempunyai kekuatan hukum tetap.
+35.   Apa upaya hukum yang dapat dilakukan terhadap putusan pengaidlan Niaga (Dalam Paten)?|Terhadap putusan Pengadilan Niaga hanya dapat diajukan kasasi.
+36.   Bagaimana proses kasasi (Dalam Paten)?|1. Permohonan kasasi didaftarkan kepada Pengadilan Niaga yang telah memutus gugatan dimaksud paling lama 14 (empat belas) hari sejak tanggal diucapkan atau diterimanya putusan yang dimohonkan kasasi.2. Pengadilan Niaga memberikan tanda terima yang ditandatangani oleh panitera pada tanggai yang sama dengan tanggal penerimaan pendaftaran.3. Pemohon kasasi wajib menyampaikan memori kasasi kepada panitera dalam waktu paling lama 14 (empat belas) hari sejak tanggal permohonan kasasi didaftarkan.4. Panitera wajib memberitahukan permohonan kasasi dan memori kasasi kepada pihak termohon kasasi paling lama 2 (dua) hari sejak memori kasasi diterima.5.Termohon kasasi dapat mengajukan kontra memori kasasi kepada panitera paling lama 14 (empat belas) hari sejak tanggal termohon kasasi menerima memori kasasi.6. Panitera wajib menyampaikan kontra memori kasasi kepada pemohon kasasi paling larna 7 (tujuh) hari sejak kontra memori kasasi diterima. 7. Panitera wajib mengirimkan berkas perkara kasasi kepada Mahkamah Agung paling lama 7 (tuluh) hari setelah lewat jangka waktu. 8. Mahkamah Agung menetapkan hari sidang paling lama 7 (tujuh) hari sejak tanggal berkas perkara kasasi diterima.9. Sidang pemeriksaan atas berkas perkara kasasi dimulai dalam waktu paling lama 60 (enam puluh) hari sejak tanggal berkas perkara kasasi diterima.
+37.   Apakah yang harus dilakukan komisi banding bila telah membuat keputusan (dalam Paten)?|Komisi
+Banding Paten wajib mengirimkan surat pemberitahuan dalam jangka waktu paling
+lama 14 (empat belas) Hari terhitung sejak tanggal keputusan menerima atau menolak
+atas:
+a. permohonan banding terhadap penolakan Permohonan.
+b. permohonan banding terhadap koreksi atas deskripsi, klaim, dan/atau
+gambar setelah Permohonan diberi Paten.
+c. permohonan banding terhadap keputusan pemberian Paten.
+38.   Apakah yang diperoleh pemohon apabila Permohonan disetujui untuk diberi (dalam Paten)?|Dalam
+hal keputusan disetujui untuk diberi Paten, Menteri menerbitkan Sertifikat.
+39.   Kapankah pelindungan Paten berlaku?|Pelindungan
+Paten dibuktikan dengan dikeluarkannya sertifikat Paten yang berlaku surut
+sejak tanggal penerimaan.
+40.   Bagaimana tata cara pengajuan banding terhadap penolakan permohonan Paten?|1.
+Permohonan banding terhadap penolakan permohonan diajukan paling lama 3
+(tiga) bulan terhitung sejak tanggal pengiriman surat pemberitahuan penolakan Permohonan Paten.
+2. Apabila Pemohon atau Kuasanya mengajukan banding setelah melewati jangka
+waktu , Pemohon tidak dapat mengajukan kembali permohonan banding Paten.
+3. Komisi Banding Paten mulai melakukan pemeriksaan atas permohonan banding
+terhadap penolakan permohonan Paten dalam waktu paling lama 1 (satu) bulan sejak tanggal penerimaan
+permohonan banding.4. Dalam permohonan banding harus diuraikan secara lengkap keberatan serta
+alasan terhadap penolakan Permohonan Paten.5. Alasan tidak merupakan alasan atau penjelasan baru yang memperluas
+lingkup Invensi Paten.7. Keputusan Komisi Banding Paten ditetapkan paling lama 9 (sembilan) bulan
+terhitung sejak tanggal dimulainya pemeriksaan atas permohonan banding.8. Dalam hal Komisi Banding Paten memutuskan untuk menerima permohonan
+banding terhadap penolakan permohonan maka Menteri akan menindaklanjuti dengan menerbitkan sertifikat
+Paten.9. Dalam hal permohonan banding terhadap penolakan permohonan diterima
+Menteri,mencatat dan mengumumkannya melalui media elektronik.
+41.   Apa upaya hukum yang dapat dilakukan pemohon banding terhadap putusan penolakan dari komisi banding (dalam Paten)?|1.
+Pemohon atau Kuasanya dapat mengajukan gugatan atas keputusan penolakan
+Komisi Banding Paten ke Pengadilan Niaga dalam waktu paling lama 3 (tiga)
+bulan terhitung sejak tanggal pengiriman surat  pemberitahuan penolakan.
+2. Pemberitahuan penolakan meliputi penolakan permohonan banding Paten
+terhadap:
+a. penolakan Permohonan;
+b. koreksi atas deskripsi, klaim dan gambar.
+c. keputusan pemberian Paten.
+3. Terhadap putusan Pengadilan Niaga , hanya dapat diajukan kasasi.
+42.   Apakah yang dimaksud lisensi paten?|adalah izin yang diberikan oleh pemegang paten, baik yang bersifat eksklusif maupun non-eksklusif, kepada penerima lisensi berdasarkan perjanjian tertulis untuk menggunakan Paten yang masih dilindungi dalam jangka waktu dan syarat tertentu
+43.   Dokumen apa saja yang menjadi lampiran sertifikat Paten?|Sertifikat
+dilampirkan:
+a. pengumuman.
+b. Deskripsi, Klaim, Abstrak, dan Gambar jika Permohonan dilampiri dengan
+Gambar.
+c. Informasi biaya tahunan Paten.
+44.   Berapa lama gugatan harus diputus (Dalam Paten)?|1. Putusan kasasi diucapkan paling lama 180 (seratus delapan puluh) hari sejak tanggal berkas perkara kasasi diterima oleh Mahkamah Agung.2. Putusan kasasi harus diucapkan dalam sidang terbuka untuk umum.3. Panitera Mahkamah Agung wajib menyampaikan salinan putusan kasasi kepada panitera Pengadilan Niaga paling lama 7 (tujuh) hari sejak tanggal putusan kasasi diucapkan.4. Pengadilan Niaga melalui juru sita paling lama 7 (tujuh) hari setelah salinan putusan kasasi diterima wajib menyampaikan kepada:a. pemohon;b. termohon; danc. Menteri.5. Menteri mencatat dan mengumumkan amar putusan yang telah mempunyai kekuatan hukum tetap setelah menerima salinan putusan dari Pengadilan Niaga.
+45.   Apa saja yang dapat dilisensikan paten?|Perjanjian Lisensi dapat mencakup semua atau sebagian perbuatan yang termasuk dalam hak eksklusif pemegang paten.
+46.   Bagaimana proses penetapan sementara pengadilan (Dalam Paten)?|1. Penetapan sementara dilakukan atas permintaan secara tertulis dari pihak yang dirugikan karena pelaksanaan Paten, Pengadilan Niaga dapat menerbitkan surat penetapan sementara untuk:a. mencegah masuknya barang yang diduga melanggar Paten dan/atau hak yang berkaitan dengan paten;b. mengamankan dan mencegah penghilangan barang bukti oleh pelanggar; dan/ atauc. menghentikan pelanggaran guna mencegah kerugian yang lebih besar.
+47.   Bagaimana cara pemohon mengajukan permohonan perbaikan sertifikat Paten?|Permohonan
+perbaikan Sertifikat dan lampiran harus dilampiri:
+a. surat atau formulir permohonan perbaikan data Sertifikat.
+b. Sertifikat asli.
+c. Fotokopi formulir Permohonan paten.
+d. Data atau keterangan mengenai bagian yang dimohonkan untuk perbaikan
+data disertai dengan penjelasan untuk perbaikan data Sertifikat.
+48.   Apakah inventor berhak untuk mencantumkan nama pada sertifikat Paten?|Pemegang Paten oleh pihak lain selain inventor tidak menghapus hak inventor untuk
+tetap dicantumkan namanya dalam setifikat Paten.
+49.   Adakah hal yang dilarang dalam lisensi paten?|Perjanjian Lisensi paten dilarang memuat ketentuan yang dapat merugikan kepentingan nasional Indonesia atau memuat pembatasan yang menghambat kemampuan bangsa Indonesia dalam melakukan pengalihan, penguasaan, dan pengembangan teknologi.
+50.   Apa jenis keputusan yang dapat diberikan atas pengajuan permohonan lisensi paten wajib?|1. Menteri dapat memberikan keputusan mengabulkan, menunda, atau menolak permohonan Lisensi-wajib berdasarkan laporan hasil pemeriksaan substantif tim        ahli. 2. Menteri memberitahukan kepada pemohon atau Kuasanya; dan Pemegang Paten atau Kuasanya.
+51.   Berapa lama penelusuran dilakukan (Dalam Paten)?|Penelusuran Paten, paling lambat dalam jangka 3 (tiga) bulan, sejak permohonan penelusuran diterima
+52.   Apa yang dimaksud dengan klasifikasi (Dalam Paten)?|klasifikasi adalah pengelompokan bidang paten yang diajukan Permohonan sesuai dengan klasifikasi paten internasional
+53.   Apakah yang dimaksud dengan paten.?|hak eksklusif yang diberikan oleh negara kepada inventor atas hasil invensinya di bidang teknologi untuk jangka waktu tertentu melaksanakan sendiri invensi tersebut atau memberikan persetujuan kepada pihak lain untuk melaksanakannya.
+54.   Siapakah yang berhak memperoleh paten.?|adalah Inventor atau Orang yang menerima lebih lanjut hak Inventor yang bersangkutan.
+55.   Bagaimana jika pengadilan Niaga menerbitkan penetapan sementara (Dalam Paten)?|1. Dalam hal Pengadilan Niaga menerbitkan surat penetapan sementara, Pengadilan Niaga memanggil pihak yang dikenai penetapan sementara dalam waktu paling lama 7 (tujuh) hari sejak tanggal diterbitkannya surat penetapan sementara untuk dimintai keterangan. 2. Pihak yang dikenai penetapan sementara dapat menyampaikan keterangan dan bukti mengenai paten dalam waktu paling lama 7 (tujuh) hari terhitung sejaktanggal diterimanya surat panggilan .3. Dalam waktu paling lama 30 (tiga puluh) hari terhitung sejak tanggal diterbitkannya surat penetapan sementara, hakim Pengadilan Niaga harus memutuskan untuk menguatkan atau membatalkan penetapan sementara.4. Dalam hal penetapan sementara pengadilan dikuatkan, maka:a. uang jaminan yang telah dibayarkan harus dikembalikan kepada pemohon penetapan;b. pemohon penetapan dapat mengajukan gugatan ganti rugi atas pelanggaran Paten; dan/atauc. pemohon penetapan dapat melaporkan pelanggaran Paten kepada pejabat penyidik Kepolisian Negara Republik Indonesia atau pejabat penyidik pegawainegeri sipil.5. Dalam hal penetapan sementara pengadilan dibatalkan, uang jaminan yang diserahkan telah dibayarkan harus segera diserahkan kepada pihak yang dikenai penetapan ganti rugi akibat penetapan sementara dimaksud.
+56.   Bagaimana jika permohonan lisensi paten wajib sudah dinyatakan lengkap?|1. Dalam hal permohonan Lisensi-wajib dinyatakan lengkap, Menteri melakukan: a. pemberitahuan secara tertulis kepada Pemegang Paten atau Kuasanya tentang permohonan Lisensi-wajib dan salinan permohonan Lisensi-wajib beserta               lampiran bukti dan dokumen pendukung permohonan; dan b. pemeriksaan substantif.2. Pemeriksaan substantif dilaksanakan oleh tim ahli yang dibentuk oleh Menteri.
+3. Tim ahli diketuai oleh Direktur Jenderal.
+4. Tim ahli dibentuk dalam jangka waktu paling lama 14 (empat belas) Hari terhitung sejak tanggal persyaratan pengajuan permohonan Lisensi-wajib dinyatakan           lengkap. 5. Tim ahli berjumlah paling sedikit 7 (tujuh) orang dan keanggotaannya berasal dari instansi pemerintah dan/atau ahli yang tidak memiliki konflik kepentingan di          bidang Paten terkait yang dimohonkan Lisensi-wajib.
+6. Tim ahli bersifat ad hoc untuk setiap permohonan Lisensi-wajib.
+57.   Apa yang dilakukan tim ahli pemeriksaan substantif permohonan lisensi paten wajib?|1. Tim ahli melakukan pemeriksaan terhadap kebenaran bukti terhadap permohonan Lisensi-wajib yang telah memenuhi persyaratan .
+2. Pemeriksaan dilakukan dalam jangka waktu paling lama 70 (tujuh puluh) Hari terhitung sejak tanggal dibentuk tim ahli . 3. Dalam jangka waktu pemeriksaan , tim ahli melalui Direktur Jenderal memberitahukan hasil pemeriksaan substantif permohonan Lisensi-wajib tersebut kepada        Pemohon Lisensi-wajib atau Kuasanya dan kepada Pemegang Paten atau Kuasanya.
+4. Dalam jangka waktu paling lama 30 (tiga puluh) Hari sejak tanggal pemberitahuan pemeriksaan pemberitahuan pemeriksaan, tim ahli wajib mendengarkan              keterangan Pemegang Paten atau Kuasanya dan Pemohon Lisensi-wajib atau Kuasanya.
+5. Dalam jangka waktu pemeriksaan, tim ahli mendengar pendapat dari instansi atau pihak terkait di bidang Paten yang dimohonkan Lisensi-wajib.
+6. Dalam jangka waktu pemeriksaan , tim ahli dapat meminta pendapat ahli di bidang Paten yang dimohonkan Lisensi wajib.
+7. Tim ahli mengambil keputusan hasil pemeriksaan substantif secara tertulis dengan suara terbanyak.8. Hasil pemeriksaan substantif yang dilakukan oleh tim ahli dilaporkan kepada Menteri dalam jangka waktu paling lama 3 (tiga) Hari terhitung sejak pemeriksaan        selesai dilakukan.
+58.   apa isi keputusan Menteri jika permohonan lisensi paten wajib dikabulkan?|Keputusan mengabulkan Lisensi-wajib memuat:
+1. Lisensi-wajib bersifat non-eksklusif;
+2. alasan pemberian Lisensi-wajib;
+3. bukti, termasuk keterangan atau penjelasan sebagai dasar pemberian Lisensi-wajib;
+4. jangka waktu Lisensi-wajib;
+5. besar Imbalan yang harus dibayarkan penerima Lisensi-wajib kepada Pemegang paten dan cara pembayarannya;
+6. syarat berakhirnya Lisensi-wajib dan hal yang dapat membatalkannya;
+7. lingkup Lisensi-wajib untuk seluruh atau sebagian dari Paten yang dimohonkan Lisensi-wajib; dan
+8. hal-hal lain yang diperlukan untuk menjaga kepentingan para pihak yang bersangkutan secara adil.
+59.   Apakah yang dimaksud dengan invensi paten?|adalah ide inventor yang dituangkan ke dalam suatu kegiatan pemecahan masalah yang spesifik di bidang teknologi berupa produk atau proses, atau penyempurnaan dan pengembangan produk atau proses.
+60.   Apakah yang dimaksud dengan imbalan Paten?|adalah kompensasi yang diterima oleh pihak yang berhak memperoleh Paten atas suatu Invensi yang dihasilkan, dalam hubungan kerja atau Invensi yang dihasilkan baik oleh karyawan maupun pekerja yang menggunakan data dan/atau sarana yang tersedia dalam pekerjaannya sekalipun perjanjian tersebut tidak mengharuskannya untuk menghasilkan Invensi atau Pemegang Paten atas Invensi yang dihasilkan oleh Inventor dalam hubungan dinas atau pemegang paten dari Penerima Lisensi-wajib atau pemegang paten atas Paten yang dilaksanakan oleh pemerintah.
+61.   Bagaimanakah apabila terdapat ketidak sesuaian mengenai cara penghitungan imbalan paten?|para pihak dapat mengajukan gugatan ke Pengadilan Niaga
+62.   Siapakah yang dimaksud dengan orang paten?|adaiah orang perseorangan atau badan hukum.
+63.   Apa dampaknya bagi pemohon apabila lisensi paten wajib berakhir?|Berakhirnya Lisensi-wajib berakibat pulihnya hak pemegang Paten atas Paten terhitung sejak tanggal pencatatan.
+64.   Apakah yang dimaksud dengan royalti paten?|adalah imbalan yang diberikan untuk penggunaan hak atas Paten.
+65.   Bagaimana caranya untuk dapat menjadi pemakai terdahulu paten?|Untuk diakui sebagai pemakai terdahulu, pihak yang melaksanakan paten harus mengajukan permohonan kepada Menteri, dengan memenuhi syarat dan membayar biaya
+66.   Kapankah hak pemakai terdahulu berakhir paten?|pada saat berakhirnya paten atas invensi yang sama dimaksud
+67.   Apa yang dilakukan pemerintah jika bermaksud melakukan pelaksanaan oleh pemerintah (Dalam Paten)?|1. Dalam hal Pemerintah bermaksud melaksanakan paten yang penting bagi pertahanan dan keamanan negara atau bagi kebutuhan sangat mendesak untuk kepentingan masyarakat dan Paten yang mengganggu atau bertentangan dengan kepentingan pertahanan dan keamanan, Pemerintah memberitahukan secara tertulis mengenai hal dimaksud kepada Pemegang paten.2. Salinan Peraturan Presiden mengenai persetujuan pelaksanaan Paten oleh pemerintah dimaksud dikirim oleh Menteri kepada Pemegang Paten.3. Pelaksanaan Paten oleh Pemerintah tersebut dicatat dalam daftar umum paten dan diumumkan melalui media elektronik.4. Keputusan Pemerintah bahwa suatu paten dilaksanakan sendiri oleh Pemerintah tersebut bersifat final dan mengikat. 5. Pelaksanaan Paten oleh Pemerintah dimaksud dilakukan dengan memberikan Imbalan yang wajar kepada Pemegang Paten.6. Pemerintah memberikan Imbalan yang wajar kepada Pemegang Paten sebagai kompensasi atas pelaksanaan Paten oleh Pemerintah.
+68.   Dokumen apa yang harus dilengkapi untuk pengalihan hak karena pewarisan (dalam Paten) ?|Pemohon
+pencatatan pengalihan Paten karena pewarisan mengajukan permohonan dengan melampirkan dokumen kelengkapan berupa:
+1. Petikan atau salinan dokumen Paten atau fotokopi sertifikat Paten dan
+dokumen Paten;
+2. Surat kematian Pemegang Paten;
+3. Salinan surat tanda bukti sebagai ahli waris dalam bentuk penetapan
+waris dari pengadilan agama untuk yang beragama Islam, akta waris yang dibuat
+oleh notaris, atau penetapan waris yang dibuat oleh  pengadilan negeri;
+4. Surat pernyataan ahli waris yang menunjuk salah seorang ahli waris untuk
+mengurus permohonan pencatatan pengalihan Paten dalam hal ahli waris lebih
+dari 1 (satu) orang;
+5. Surat Kuasa khusus dalam hal permohonan diajukan melalui Kuasa;
+6. Bukti pembayaran biaya permohonan pencatatan pengalihan Paten;
+7. Bukti pembayaran biaya tahunan atas Paten;
+8. Surat pernyataan ahli waris mengenai pelepasan Paten, dalam hal terdapat
+ahli waris yang melakukan pelepasan Paten;
+9. Bukti pencatatan perjanjian lisensi, dalam hal Paten telah diberikan
+lisensi kepada pihak lain;
+10. Fotokopi sertifikat jaminan fidusia dan persetujuan tertulis dari
+penerima fidusia, dalam hal hak atas Paten dijadikan objek jaminan fidusia;
+dan
+11. Fotokopi Peraturan Presiden mengenai Pelaksanaan Paten oleh Pemerintah,
+dalam hal Paten dilaksanakan oleh Pemerintah.
+69.   Apakah yang dilakukan setelah tim menyampaikan hasil pelaksanaan tugas kepada meneteri (Dalam Paten)?|1. Dalam hal Menteri telah memberikan persetujuan atas hasil pelaksanaan tugas, Menteri menyampaikan hasil pelaksanaan tugas kepada Presiden untuk ditetapkan dengan Peraturan Presiden. 2. Penyampaian hasil pelaksanaan tugas kepada Presiden dilakukan daiamjangka waktu paling lama 15 (lima belas) Hari sejak Menteri memberikan persetujuan atas hasil pelaksanaan tugas. 3. Menteri menyampaikan salinan Peraturan Presiden kepada Pemegang Paten.4. Menteri mencatat pelaksanaan Paten oleh Pemerintah dalam daftar umum Paten dan mengumumkannya.5. Pengumuman dilakukan melalui media elektronik.
+70.   Hak apa saja yang dimiliki pemakai terdahulu paten?|hak yang dimiliki hanya untuk melaksanakan invensi, tidak dapat dialihkan kepada pihak lain, kecuali karena pewarisan, dan tidak berhak melarang orang lain melaksanakan invensi
+71.   Bagaimana jika pemakai terdahulu melanggar ketentuan yang sudah diatur dalam peraturan paten?|Menteri dapat mencabut surat keterangan sebagai pemakai terdahulu.
+72.   Apakah penarikan kembali permohonan diumumkan (Dalam Paten)?|Penarikan kembali Permohonan diumumkan melalui media elektronik atau media non-elektronik.
+73.   Data permohonan apa saja disajikan pada saat pengumuman terhadap permohonan paten yang diberi?|Pengumuman atas Permohonan yang diberi memuat:1. nomor dan tanggal pemberian Paten;2. klasifikasi Invensi;3. nomor Permohonan;4. nama dan alamat lengkap Pemegang Paten;5. nama dan alamat lengkap Kuasa apabila Permohonan diajukan melalui Kuasa;6. nama dan kewarganegaraan Inventor;7. tanggal Penerimaan;8. data prioritas;9 tanggal pengumuman;10. dokumen pembanding;11. nama pemeriksa;12. jumlah klaim;13. judul Invensi14. abstrak; dano. Gambar jika Permohonan dilampiri dengan Gambar.
+74.   Apakah terhadap perbaikan sertifikat dilakukan pengumuman (Dalam Paten)?|Perbaikan pengumuman B dapat dilakukan terhadap data dalam pengumuman tersebut.
+75.   Apakah terhadap perubahan data terhadap sertifikat yang telah diberikan dilakukan pengumuman (Dalam Paten)?|Perubahan data terhdap sertifikat yang telah diberikan dicatat dan diumumkan oleh Menteri.
+76.   Apakah tujuan dari pengumuman permohonan (dalam Paten)?|Untuk
+memberikan kesempatan kepada masyarakat untuk mengajukan pandangan dan/atau
+keberatan terhadap pengajuan suatu permohonan.
+77.   Siapakah yang dimaksud dengan pemohon paten?|adalah pihak yang mengajukan permohonan Paten.
+78.   Siapakah yang dimaksud dengan kuasa paten?|adalah konsultan kekayaan intelektual yang bertempat tinggal atau berkedudukan tetap di wilayah Negara Kesatuan Republik Indonesia.
+79.   Siapakah yang dimaksud Konsultan Kekayaan Intelektual paten?|Konsultan kekayaan intelektual adalah orang yang memiliki keahlian di bidang kekayaan intelektual dan secara khusus memberikan jasa pengajuan permohonan dan pengurusan kekayaan intelektual.
+80.   Apa saja yang harus dicantumkan dalam surat kuasa paten?|Surat Kuasa paling sedikit memuat:a. nama dan alamat pemberi Kuasa;b. nama dan alamat penerima Kuasa;c. judul Invensi; dand. bermaterai cukup.
+81.   Bagaimana bila permohonan paten diajukan oleh pemohon yang bukan Inventor.?|Dalam hal Permohonan diajukan oleh Pemohon yang bukan Inventor, Permohonan wajib disertai dengan surat pengalihan hak kepemilikan Invensi
+82.   Bagaimana mengajukan tanggapan dan/atau keberatan atas pengumuman terhadap permohonan Paten?|1.
+Setiap Orang dapat mengajukan pandangan dan/atau keberatan secara tertulis
+kepada Menteri dengan disertai alasan atas Permohonan yang diumumkan.
+2. Pengajuan pandangan dan/ atau keberatan harus sudah diterima oleh
+Menteri dalam jangka waktu pengumuman.
+3. Dalam hal terdapat pandangan dan/atau keberatan, Menteri memberitahukan
+pandangan dan/atau keberatan tersebut kepada Pemohon paling lama 7 (tujuh)
+Hari terhitung sejak tanggal pandangan dan/atau keberatan diterima.
+4. Pemohon dapat mengajukan secara tertulis penjelasan, dan/atau sanggahan
+terhadap pandangan dan/atau keberatan kepada Menteri paling lama 30 (tiga
+puluh) Hari terhitung sejak tanggal surat pemberitahuan. Menteri menggunakan
+pandangan dan/atau keberatan, penjelasan, dan/ atau sanggahan sebagai
+tambahan bahan pertimbangan dalam tahap pemeriksaan substantif.
+83.   Data permohonan apa saja yang disajikan pada saat pengumuman terhadap permohonan Paten yang diberi?|Pengumuman
+atas Permohonan yang diberi memuat:
+1. Nomor dan tanggal pemberian Paten;
+2. kKasifikasi Invensi;
+3. Nomor Permohonan;
+4. Nama dan alamat lengkap Pemegang Paten;
+5. Nama dan alamat lengkap Kuasa apabila Permohonan diajukan melalui
+Kuasa;
+6. Nama dan kewarganegaraan Inventor;
+7. Tanggal Penerimaan;
+8. Data prioritas;
+9 Tanggal pengumuman; 
+10.Dokumen pembanding; 
+11. Nama pemeriksa;
+12. Jumlah klaim;
+13. Judul Invensi
+14. Abstrak; dan15. Gambar jika Permohonan dilampiri dengan Gambar.
+84.   Bagaimana bila terjadi keadaan darurat (dalam Paten)?|1.
+Dalam hal terjadi keadaan darurat, Pemohon Paten dapat 
+mengajukan permohonan perpanjangan waktu untuk:
+a. Melengkapi pemeriksaan administratif; 
+b. Menanggapi hasil pemeriksaan substantif;
+c. Membayar biaya pemeriksaan substantif; dan 
+d. Membayar biaya tahunan.
+2. Permohonan diajukan secara tertulis kepada Menteri disertai bukti
+pendukung yang dikeluarkan dari instansi yang berwenang. 
+3. Terhadap permohonan , Direktorat Paten, DTLST dan RD dapat memberikan
+perpanjangan jangka waktu sesuai ketentuan peraturan
+perundang-undangan.
+4. Dalam hal terjadi keadaan darurat , Pemegang Paten dapat melakukan
+pembayaran biaya pemeliharaan Paten dan biaya Pemeriksaan Substantif, 3
+(tiga) hari setelah berakhirnya masa keadaan darurat.
+85.   Apa saja yang harus dicantumkan dalam Surat Pengalihan Hak Kepemilikan Invensi paten?|Surat pengalihan hak kepemilikan invensi paling sedikit memuat:a. judul Invensi;b. nama dan alamat Inventor;c. nama dan alamat penerima hak; dand. bermaterai cukup.
+86.   Siapakah yang menandatangani surat pengalihan hak kepemilikan invensi paten?|1. Dalam hal Invensi dihasilkan oleh satu orang Inventor, surat pengalihan hak kepemilikan Invensi  wajib ditandatangani oleh Inventor yang bersangkutan.2. Dalam hal Invensi dihasilkan oleh lebih dari satu Inventor, surat pengalihan hak kepemilikan Invensi wajib ditandatangani oleh semua Inventor.3. Dalam hal surat pengalihan hak kepemilikan Invensi akan ditandatangani oleh salah satu Inventor yang ditunjuk, maka wajib disertai dengan surat penunjukan dari para Inventor.
+87.   Data apa saja yang harus dicantumkan dalam permohonan paten?|Permohonan paling sedikit memuat:a. tanggal, bulan, dan tahun surat permohonan;b. nama, alamat lengkap, dan kewarganegaraan Inventor;c. nama, alamat lengkap, dan kewarganegaraan Pemohon dalam hal Pemohon adalah bukan badan hukum;d. nama dan alamat lengkap Pemohon dalam hal Pemohon adalah badan hukum;e. nama, dan alamat lengkap Kuasa dalam hal Permohonan diajukan melalui Kuasa; danf. nama negara dan Tanggal penerimaan permohonan yang pertama kali dalam hal permohonan diajukan dengan Hak Prioritas.
+88.   Apakah yang dimaksud dengan hak prioritas paten?|adalah hak Pemohon untuk mengajukan Permohonan yang berasal dari negara yang tergabung dalam Konvensi Paris tentang Pelindungan Kekayaan Industri (Pans Conuention for the Protection of Industial Propertg) atau Persetujuan Pembentukan Organisasi Perdagangan Dunia (Agreement Establishing the Wortd Trade Organization) untuk memperoleh pengakuan bahwa Tanggal Penerimaan di negara asal merupakan tanggal prioritas di negara tujuan yang juga anggota salah satu dari kedua pe{anjian itu selama pengajqan tersebut dilakukan dalam kurun waktu yang telah ditentukan berdasarkan perjanjian internasional dimaksud.
+89.   Kapankah Permohonan dengan Hak Prioritas dapat diajukan paten?|Permohonan dengan Hak Prioritas harus diajukan dalam waktu paling lama 12 (dua belas) bulan terhitung sejak tanggal prioritas. Permohonan harus juga dilengkapi dengan dokumen prioritas yang disahkan oleh pejabat yang berwenang di negara yang bersangkutan.Dokumen prioritas yang telah disahkan oleh pejabat yang berwenang di negara yang bersangkutan harus sudah disampaikan kepada Menteri paling lama 16 (enam belas) bulan terhitung sejak tanggal prioritas.
+90.   Kapankah Permohonan diajukan dengan lebih dari satu dengan Hak Prioritas paten?|Dalam hal Permohonan dengan Hak Prioritas diajukan menggunakan lebih dari 1 (satu) Hak Prioritas, maka:1. semua dokumen prioritas harus dilampirkan.2. jangka waktu 12 (dua belas) bulan dihitung dari tanggal prioritas yang paling awal. 3. dokumen prioritas harus disampaikan dalam jangka waktu paling lambat 16 (enam belas) bulan terhitung sejak tanggal prioritas yang paling awal. 4. apabila dokumen prioritas tidak seluruhnya diserahkan , maka hanya prioritas yang diserahkan yang diakui dalam Permohonan.
+91.   Apakah permohonan hanya dapat diajukan dengan satu invensi paten?|Permohonan dapat diajukan untuk satu Invensi atau beberapa Invensi yang merupakan satu kesatuan nvensi yang saling berkaitan.
+92.   Bagaimana apabila invensi dihasilkan oleh lebih dari satu orang ?|hak atas atas invensi dimiliki secara bersama-sama oleh para inventor yang bersangkutan
+93.   Apakah yang dimaksud dengan deskripsi paten?|Deskripsi adalah penjelasan tertulis mengenai cara melaksanakan suatu Invensi sehingga dapat  dimengerti oleh seseorang yang ahli di bidang Invensi.
+94.   Apa saja persyaratan yang harus dilampirkan dalam permohonan paten?|Persyaratan yang harus dilampirkan yaitu :                                                                                                                               a. judul Invensi;b. deskripsi tentang Invensi;c. klaim atau beberapa klaim Invensi;d. abstrak Invensi;e. gambar yang disebutkan dalam deskripsi yang diperlukan untuk memperjelas Invensi, jika Permohonan dilampiri dengan gambar;f. surat kuasa dalam hal Permohonan diajukan melalui Kuasa;g. surat pernyataan kepemilikan Invensi oleh Inventor;h. surat pengalihan hak kepemilikan Invensi dalam hal Permohonan diajukan oleh pemohon yang bukan Inventor; dani. surat bukti penyimpanan jasad renik dalam hal Permohonan terkait dengan jasad renik.
+95.   Apakah yang dimaksud dengan klaim paten?|Klaim adalah bagian dari permohonan yang menggambarkan inti Invensi yang dimintakan pelindungan hukum, yang harus diuraikan secara jelas dan harus didukung oleh deskripsi.
+96.   Apakah yang dimaksud dengan klaim turunan paten?|Klaim turunan merupakan Klaim yang merujuk pada Klaim mandiri dan memiliki semua fitur teknis esensial Klaim mandiri tersebut ditambah fitur teknis lain.
+97.   Apakah yang dimaksud dengan abstrak paten?|Abstrak adalah ringkasan dari deskripsi yang menggambarkan inti Invensi.
+98.   Ketentuan apa saja yang berlaku pada penulisan abstrak paten?|Penulisan Invensi dalam Abstrak tidak boleh melebihi 200 (dua ratus) kata dan dimulai dengan judul invensi sesuai dengan judul Invensi yang dicantumkan dalam surat Permohonan untuk mendapatkan Paten.                                            Abstrak berlaku ketentuan sebagai berikut: a. berisi ikhtisar uraian yang terkandung dalam Deskripsi dan Klaim; danb. tidak memuat pernyataan yang bersifat mengiklankan atau propaganda.
+99.   Bagaimana format penulisan deskripsi, klaim, dan abstrak yang sesuai dengan persyaratan paten?|ketentuan persyaratan fisik sebagai berikut:a. Deskripsi, Klaim, dan Abstrak diketik pada lembar kertas HVS dengan ukuran kertas A4 (29,7 sentimeter x 21 sentimeter) yang berat minimumnya 80 (delapan puluh) gsm;b. kertas A4 harus berwama putih, rata, tidak mengkilat, dan dilakukan dengan menempatkan sisi-sisinya yang pendek di bagian atas dan bawah (kecuali apabila dipergunakan untuk Gambar); dan                                                                c. jenis huruf untuk penulisan Deskripsi adalah Courier New ukuran 12 (dua belas).Format penulisan Deskripsi, Klaim, dan Abstrak sebagai berikut:a. batas penulisan:1. dari pinggir atas 2 cm (dua sentimeter);2. dari pinggir bawah 2 cm (dua sentimeter);3. dari pinggir kiri 2,5 cm (dua koma lima sentimeter); dan4. dari pinggir kanan 2 cm (dua sentimeter);b. penulisan Deskripsi, Klaim, dan Abstrak dibuat hanya dalam salah satu sisi muka saja;c. setiap lembar dari Deskripsi, Klaim, dan Abstrak diberi nomor urut menurut angka Arab pada bagian tengah atas dan tidak pada batas;d. setiap lima baris pengetikan uraian dan Klaim, harus diberi nomor baris yang di setiap halaman baru selalu dari awal dan ditempatkan di sebelah kiri sisi kertas serta tidak pada batas;e. pengetikan harus dilakukan dengan menggunakan warna hitam, dengan ukuran antarbaris 1,5 (satu setengah) spasi, dan dengan huruf tegak yang ukuran minimum tinggi huruf adalah 0,31 (nol koma tiga satu) cm; danf. tanda dengan garis, rumus-rumus kimia atau matematika dan tanda-tanda tertentu dapat ditulis dengan tangan atau dilukis, apabila diperlukan.
+100.   Bagaimana format penyajian gambar yang sesuai dengan persyaratan paten?|Gambar harus menggunakan kertas gambar putih ukuran A4 dengan berat paling rendah 100 (seratus) gram yang tidak mengkilap dengan batas sebagai berikut:1. dari pinggir atas 2,5 cm (dua koma lima sentimeter);2. dari pinggir bawah 1 cm (satu sentimeter);3. dari pinggir kin 2,5 cm (dua koma lima sentimeter); dan4. dari pinggir kanan 1,5 cm (satu koma lima sentimeter).
+101.   Apa saja yang harus dicantumkan dalam surat Pernyataan Kepemilikan Invensi paten?|Surat pernyataan kepemilikan Invensi oleh Inventor memuat pernyataan bahwa Invensi yang diajukan permohonannya benar milik Inventor dan dapat dipertanggungjawabkan secara hukum.
+102.   Siapakah yang menantangani Surat Pernyataan kepemilikan Invensi paten?|Dalam hal Invensi dihasilkan oleh 1 (satu) Inventor, surat pernyataan kepemilikan Invensi wajib ditandatangani oleh Inventor yang bersangkutan. Dalam hal Invensi dihasilkan oleh lebih dari 1 (satu) Inventor, surat pernyataan kepemilikan Invensi ditandatangani oleh seluruh Inventor.
+103.   Siapakah yang menetapkan informasi paten tentang sumber daya genetik dan/atau pengetahuan tradisional adalah benar?|Informasi tentang sumber daya genetik dan/atau pengetahuan tradisional ditetapkan oleh lembaga resmi yang diakui oleh pemerintah.
+104.   Apakah yang dimaksud dengan pemeriksaan substantif (Dalam Paten)?|Adalah pemeriksaan invensi oleh pemeriksa paten meliputi pemeriksaan mengenai kebaruan Invensi, mengandung langkah inventif, dapat diterapkan dalam industri, serta memenuhi ketentuan lain sesuai peraturan perundang-undangan untuk memutuskan ditolak atau disetujuinya suatu permohonan paten
+105.   Apa yang dimaksud dengan ketentuan lain dalam pemeriksaan substantif (Dalam Paten)?|1. yang dimaksud dengan Ketentuan lain meliputi tetapi tidak terbatas pada:a. kejelasan pengungkapan Invensi;b. kesatuan Invensi;c. konsistensi pengungkapan Invensi;d. Klaim harus didukung oleh Deskripsi;e. kecukupan dalam pengungkapan Invensi; danf. kejelasan Klaim.2. Pemeriksa melakukan pemeriksaan administratif biaya kelebihan Klaim.
+106.   Bagaimana apabila lembaga resmi yang diakui terkait sumber daya genetik dan/atau pengetahuan teradisional belum ditetapkan paten?|Pemohon harus membuat surat pernyataan yang menyatakan kebenaran dan kejelasan asal sumber daya genetik dan/atau pengetahuan tradisional.                                                                                                                                    Kebenaran dan keabsahan isi surat pernyataan menjadi tanggung jawab pemohon.
+107.   Selain pemeriksa siapakah yang dimaksud yang dapat melakukan pemeriksaan substantif (Dalam Paten)?|Dalam melakukan pemeriksaan substantif, Menteri dapat meminta bantuan ahli dan/atau menggunakan fasilitas yang diperlukan dari instansi lain untuk keperluan pemeriksaan substantif.
+108.   Bagaimana cara pengajuan permohonan pemeriksaan substantif (Dalam Paten)?|Permohonan pemeriksaan substantif diajukan secara elektronik melalui laman resmi Direktorat Jenderal Kekayaan Intelektual.
+109.   Bagaimana jika pemohon tidak mengajukan permohonan pemeriksaan substantif (Dalam Paten)?|1. apabila permohonan pemeriksaan substantif tidak diajukan dalam batas waktu dan biaya untuk pemeriksaan substantif tidak dibayar, Permohonan dianggap ditarik kembali.2. Pemohon kuasanya nendapatkan pemberitahuan secara tertulis, bahwa Permohonan yang dianggap ditarik kembali.
+110.   Bagaimana cara pengajuan permohonan pemeriksaan substantif terhadap divisional permohonan (Dalam Paten)?|1. Permohonan pemeriksaan substantif dan pembayaran biaya terhadap divisional Permohonan harus diajukan bersamaan dengan pengajuan divisional Permohonan.2. Dalam hal permohonan pemeriksaan substantif dan pembayaran biaya tidak diajukan bersamaan dengan divisional permohonan, divisional Permohonan dianggap ditarik kembali.
+111.   Apakah terhadap permohonan yang tidak diumumkan juga dilakukan pemeriksaan substantif (Dalam Paten)?|Permohonan yang tidak diumumkan dilakukan pemeriksaan substantif dengan tidak dikenai biaya.
+112.   Apakah semua invensi dapat diberikan perlindungan paten ?|Tidak
+113.   Apakah syarat substansi agar paten mendapat perlindungan ?|Paten diberikan untuk Invensi yang baru, mengandung langkah inventif, dan dapat diterapkan dalam industri.
+114.   Invensi apa saja yang tidak dapat diberikan perlindungan paten ?|meliputi:a. proses atau produk yang pengumuman, penggunaan, atau pelaksanaannya bertentangan dengan peraturan perundang-undangan, agama, ketertiban umum, atau kesusilaan;b. metode pemeriksaan, perawatan, pengobatan dan/atau pembedahan yang diterapkan terhadap manusia dan/ atau hewan;c. teori dan metode di bidang ilmu pengetahuan dan matematika;d. makhluk hidup, kecuali jasad renik; ataue. proses biologis yang esensial untuk memproduksitanaman atau hewan, kecuali proses nonbiologis atauproses mikrobiologis.
+115.   Kapankah invensi dianggap baru (Dalam Paten) ?|jika pada Tanggal Penerimaan, Invensi tersebut tidak sama dengan teknologi yang diungkapkan sebelumnya.
+116.   Apakah yang dimaksud dengan teknologi telah diungkap sebelumnya (Dalam Paten) ?|merupakan teknologi yang telah diumumkan di Indonesia atau di luar Indonesia dalam suatu tulisan, uraian lisan atau melalui peragaan, penggunaan, atau dengan cara lain yang memungkinkan seorang ahli untuk melaksanakan Invensi tersebut sebelum:a. Tanggal Penerimaan; atau b. tanggal prioritas dalam hal Permohonan diajukandengan Hak Prioritas.
+117.   Apakah yang dimaksud dengan invensi mengandung langkah inventif (Dalam Paten) ?|Jika invensi tersebut bagi seseorang yang mempunyai keahlian tertentu di bidang teknik merupakan hal yang tidak dapat diduga sebelumnya, dengna memperhatikan keahlian yang ada pada saat diajukan permohonan pertama dalam hal Permohonan itu diajukan dengan hak prioritas
+118.   Apakah yang dimaksud invensi dapat diterapkan dalam industri (Dalam Paten) ?|jika invensi tersebut dapat dilaksanakan dalam industri. Apabila invensi berbentuk produk maka Produk harus mampu dibuat berulang-ulang (secara massal) dengan kulitas yang sama, apabila berbentuk Proses harus mampu dijalankan atau digunakan dalam praktik
+119.   Bagaimana penulisan deskripsi yang benar (Dalam Paten) ?|Deskripsi tentang Invensi harus mengungkapkan secara jelas dan lengkap tentang bagaimana Invensi tersebut dapat dilaksanakan oleh orang yang ahli di bidangnya.
+120.   Bagaimana penulisan klaim yang benar (Dalam Paten)?|Klaim atau beberapa Klaim Invensi harus mengungkapkan secara jelas dan konsisten atas inti Invensi, dan didukung oleh Deskripsi
+121.   Apakah yang dilakukan Pemeriksa setelah melakukan pemeriksaan substantif (Dalam Paten)?|1. Pemeriksa memberitahukan hasil pemeriksaan substantif secara jelas dan rinci yang disertai alasan dan dokumen pembanding yang digunakan dalam pemeriksaan substantif.2. Pemberitahuan dapat juga memuat saran untuk perbaikan.3. Pemberitahuan disertai dengan jangka waktu pemenuhan 3 (tiga) bulan.
+122.   Bagaimana jika dalam jangka waktu 3 (tiga) bulan pemohon belum menanggapi hasil pemeriksaan substantif (Dalam Paten)?|Apabila dalam jangka waktu 3 (tiga) bulan Pemohon belum melengkapi dokumen kelengkapan persyaratan, Pemohon dapat mengajukan permohonan perpanjangan jangka waktu secara tertulis dengan disertai alasan
+123.   Apakah ada pengecualian batas waktu pengungkapan untuk tetap dianggap baru (Dalam Paten) ?|Invensi tidak dianggap telah diumumkan jika dalam waktu paling lama 6 (enam) bulan sebelum Tanggal Penerimaan, Invensi telah:a. dipertunjukkan dalam suatu pameran resmi atau dalam suatu pameran yang diakui sebagai pameranresmi, baik yang diselenggarakan di Indonesia maupun di luar negeri;b. digunakan di Indonesia atau di luar negeri oleh Inventornya dalam rangka percobaan dengan tujuan penelitian dan pengembangan; dan/ atauc. diumumkan oleh Inventornya dalam:1. sidang ilmiah dalam bentuk ujian dan/atau tahap ujian skripsi, tesis, disertasi, atau karya ilmiah lain; dan/atau 2. forum ilmiah lain dalam rangka pembahasan hasilpenelitian di lembaga pendidikan atau lembaga penelitian.(2) Invensi juga tidak dianggap telah diumumkan apabiladalam waktu 12 (dua belas) bulan sebelum Tanggal Penerimaan, ada pihak lain yang mengumumkan dengan cara melanggar kewajiban untuk menjaga kerahasiaan Invensi tersebut.
+124.   Dokumen apa yang digunakan oleh Pemeriksa dalam melakukan pemeriksaan substantif (Dalam Paten) ?|1. Dokumen Permohonan Paten yang diajukan di Indonesia maupun di luar Indonesia, yang telah diumumkan sebelum Tanggal Penerimaan Permohonan atau tanggal prioritas jika Permohonan tersebut diajukan dengan menggunakan Hak Prioritas;2. Dokumen Paten yang diberi Paten di Indonesia maupun di luar Indonesia yang tanggal pengumumannya sebelum Tanggal Penerimaan Permohonan atau tanggal prioritas jika Permohonan tersebut diajukan dengan menggunakan Hak Prioritas;3. dokumen nonpaten, yang telah diumumkan sebelum Tanggal Penerimaan Permohonan atau tanggal prioritas jika Permohonan tersebut diajukan dengan menggunakan Hak Prioritas;4. dokumen Permohonan yang diajukan di Indonesia yang dipublikasikan pada atau setelah Tanggal Penerimaan Permohonan yang pemeriksaan substantifnya sedang dilakukan, tetapi Tanggal Penerimaan atau tanggal prioritas Permohonan yang diajukan di Indonesia tersebut lebih awal daripada Tanggal Penerimaan atau tanggal prioritas Permohonan yang pemeriksaan substantifnya sedang diperiksa;5. pengetahuan umum yang dikenal dalam bidang teknologi dari Invensi yang diajukan Permohonannya; dan6. pandangan dan/atau keberatan yang diajukan masyarakat, bila ada, serta sanggahan atau penjelasan terhadap pandangan dan/atau keberatan tersebut, jika ada. 7. Dokumen pembanding pada angka 1, angka2, dan angka 3, dapat berupa dokumen baik yang diumumkan di Indonesia dan/atau yang diumumkan di luar Indonesia.
+125.   Apakah pada saat pemeriksaan substantif dilakukan, pemohon dapat melakukan perubahan terhadap klaim dan/atau deskripsi (Dalam Paten) ?|1. Perubahan terhadap Deskripsi tentang Invensi dan/atau Klaim atau beberapa Klaim Invensi dapat dilakukan dengan ketentuan perubahan tersebut tidak memperluas lingkup Invensi yang telah diajukan dalam Permohonan semula.2. Dalam hal perubahan dilakukan dengan menambah jumlah Klaim dari Permohonan semula menyebabkan jumlah Klaim menjadi lebih dari 10 (sepuluh) Klaim maka Pemohon dikenai biaya terhadap kelebihan Klaim tersebut.3. Besarnya biaya ditetapkan berdasarkan ketentuan perundang-undangan di bidang penerimaan Negara bukan pajak yang berlaku pada Kementerian Hukum dan Hak Asasi Manusia.4. Pembayaran biaya dilakukan bersamaan dengan pengajuan perubahan Klaim.
+126.   Bagaimana jika surat bukti penyimpanan Jasad Renik paten belum dilampirkan ?|Apabila surat bukti penyimpanan jaa renik tidak dilampirkan, wajib dilengkapi paling lambat 3 (tiga) bulan sejak Tanggal Penerimaan dan dapat diperpanjang sesuai dengan ketentuan peraturan perundang-undangan.
+127.   Berapa lama perpanjangan jangka waktu bagi pemohon untuk menanggapi hasil pemeriksaan substantif diberikan (Dalam Paten) ?|Jika disetujui permohonan perpanjangan jangka waktu diberikan untuk paling lama 2 (dua) bulan sejak berakhirnya jangka waktu (3 bulan) untuk memenanggapi.
+128.   Bagaimana cara untuk dapat memanfaatkan jasad renik (Dalam Paten)?|Setiap Orang yang akan memanfaatkan Jasad Renik harus mengajukan permohonan tertulis kepada Menteri untuk meminta contoh Jasad Renik yang disimpan di lembaga tempat penyimpanan.
+129.   Bagaimana jika dalam jangka waktu 2 (dua) bulan pemohon juga belum dapat melengkapi persyaratan (Dalam Paten) ?|Apabila dalam jangka waktu 2 (dua) bulan,Pemohon belum memanggapi hasil pemeriksaan substantif, Pemohon dapat mengajukan permohonan perpanjangan jangka waktu, secara tertulis disertai dengan alasan.
+130.   Apakah yang dimaksud dengan tanggal penerimaan Paten?|adalah tanggal diterimanya Permohonan yang telah memenuhi persyaratan minimum.
+131.   Apakah yang dimaksud dengan pemeriksaan adminstrasi (Paten)?|Yaitu memeriksa kelengkapan persyaratan permohonan serta memeriksa kesesuaian antara data yang tercantum dalam permohonan dengan dokumen persyaratan yang dilampirkan.
+132.   Kapankah pemeriksaan administrasi dilakukan (Paten)?|Pemeriksaanadministrasi dilakukan dalam jangka waktu 14 (empat belas) Hari terhitung sejak tanggal pengajuan Permohonan diterima.
+133.   Bagaimana jika jumlah halaman deskripsi melebihi 30 (tiga puluh) halaman (Dalam Paten)?|Dalam hal jumlah halaman Deskripsi melebihi 30 (tiga puluh) halaman, dikenakan biaya tambahan halaman Deskripsi.
+134.   Bagaimana jika terjemahan deskripsi tidak dilengkapi sampai batas waktu yang telah ditentukan (Dalam Paten)?|Apabila dalam jangka waktu yang telah ditentukan Pemohon tidak melengkapi terjemahan deskripsi dalam Bahasa Indonesia,  maka Permohonan dianggap ditarik kembali.
+135.   Perubahan apa saja yang dapat dilakukan terhadap permohonan Paten?|Permohonan perubahan meliputi:a. data Permohonan; b. Permohonan Paten menjadi Permohonan Paten sederhana atau sebaliknya.
+136.   Perubahan data apa saja yang dapat dilakukan terhadap permohonan Paten?|1. Permohonan perubahan yang diajukan oleh Pemohon berbadan hukum dapat dilakukan terhadap:a. nama; danb. alamat lengkap.2. Permohonan perubahan yang diajukan oleh Pemohon tidak berbadan hukum dapat dilakukan terhadap:a. nama;b. alamat lengkap; danc. kewarganegaraan.
+137.   Apakah yang dimaksud dengan divisional permohonan Paten?|Divisonal permohonan adalah pemecahan suatu permohonan paten apabila permohonan tediri atas bebeapa invensi yang tidak merupakan satu kesatuan.
+138.   Apa saja persyaratan yang harus dilampirkan dalam divisonal permohonan Paten?|Persyaratan yang harus dilampirkan sama dengan permohonan baru namun untuk :1. surat kuasa ;2. surat pengalihan hak;                                                                                                                                                                                3. surat pernyataan kepemilikan invensi;                                                                                                                                                                  dapat menggunakan foto copy dari permohonan semula.
+139.   Siapakah yang dapat melakukan divisional permohonan Paten?|Divisional Permohonan dapat dilakukan atas inisiatif Pemohon dan/atau atas saran Menteri.
+140.   Bagaimana tata cara mengajukan divisional permohonan Paten?|1. Divisional Permohonan dapat diajukan secara terpisah dalam satu Permohonan atau lebih dengan ketentuan bahwa lingkup pelindungan yang dimohonkan dalam setiap Permohonan tersebut tidak memperluas lingkup pelindungan yang telah diajukan dalam Permohonan semula.                                                                                                                                        2.  Divisional Permohonan, yang telah memenuhi persyaratan dianggap memiliki Tanggal Penerimaan yang sama dengan Tanggal Penerimaan semula.3. Terhadap divisional Permohonan tanggal dan nomor pengumuman merujuk Permohonan semula.4. Divisional Permohonan dikenai biaya.5. Dalam hal divional permohonan dajukan, maka biaya pemeriksaan substantif harus dibayar pada saat pengajuan divisional permohonan.
+141.   Berapa lama perpanjangan jangka waktu kembali diberikan kepada pemohon untuk menanggapi hasil pemeriksaan substantif (Dalam paten) ?|Jika disetujui, permohonan perpanjangan jangka waktu diberikan untuk paling lama 1 (satu) bulan sejak berakhirnya jangka waktu (2 bulan) dan dikenai biaya permohonan perpanjangan berdasarkan ketentuan perundang-undangan di bidang penerimaan negara bukan pajak yang berlaku pada Kementerian Hukum dan Hak Asasi Manusia.
+142.   Bagaimana apabila Pemohon tidak memberikan tanggapan sebagaimana yang tercantum dalam surat pemberitahuan hasil pemeriksaan substantif (Dalam Paten)?|Jika Pemohon tidak memberikan tanggapan sebagaimana tercantum dalam surat pemberitahuan hasil pemeriksaan substantif, maka dalam waktu 2 (dua) bulan, Direktorat Paten, DTLST dan RD, memberitahukan kepada Pemohon bahwa Permohonan dianggap ditarik kembali.
+143.   Bagaimana pemohon memberikan tanggapan terhadap surat pemberitahuan hasil pemeriksaan substantif (Dalam Paten)?|1. Pemohon harus memberikan jawaban atas pemberitahuan hasil pemeriksaan substantif. 2. Tanggapan atas Jawaban dapat mencakup penjelasan, sanggahan, tambahan informasi, perubahan, perbaikan, dan/atau pemenuhan kekurangan atas pemberitahuan. 3. Perubahan dan/atau perbaikan dapat dilakukan sepanjang tidak memperluas lingkup Invensi yang diajukan semula.
+144.   Bagaimana apabila tanggapan Pemohon tidak memenuhi ketentuan yang disampaikan dalam surat pemberitahuan (Dalam Paten)?|Direktorat Paten, DTLST, dan RD dalam waktu paling lambat 2 (dua) bulan memberitahukan secara tertulis bahwa Permohonan ditolak.
+145.   Apa upaya hukum yang dapat dilakukan oleh pemohon jika permohonan ditolak (Dalam Paten)?|Upaya hukum atas penolakan Permohonan, diajukan ke Komisi Banding Paten.
+146.   Apakah yang dimaksud Indonesia sebagai kantor penerima Paten?|Pemohon dapat mengajukan permohonan paten melalui Direktorat paten, DTSLST dan RD ke satu atau lebih negara yang turut serta meratifikasi traktat kerja sama.
+147.   apa yang dilakukan pemohon,apabila dalam pemeriksaan substantif terhadap permohonan dengan Hak Prioritas, Pemeriksa mememinta kelengkapan dokumen prioritas (Dalam Paten)?|Pemohon harus menyampaian salinan dokumen yang diminta dapat disertai tambahan penjelasan secara terpisah oleh Pemohon.
+148.   Apakah yang dimaksud Indonesia sebagai kantor tujuan (Dalam Paten)?|Pemohon dapat mengajukan permohonan paten dari kantor kekayaan intelektual dari satu negara yang turut serta meratifikasi traktat kerja sama ke Indonesia melalui biro internasional.
+149.   Siapakah yang dapat mengajukan penarikan kembali permohonan Paten?|Penarikan kembali Permohonan diajukan oleh Pemohon atau Kuasanya.
+150.   Apakah yang dilakukan Pemeriksa jika pemohon menyampaikan tanggapan (Dalam Paten)?|1. Dalam hal Pemohon atau Kuasa memberikan tanggapan atas pemberitahuan hasil pemeriksaan substantif, pemeriksa harus mempertimbangkan tanggapan tersebut.2. Apabila tanggapan masih belum memenuhi ketentuan sebagaimana tercantum dalam surat pemberitahuan hasil pemeriksaan substantif, Pemeriksa dapat memberitahukan hal tersebut secara tertulis kepada Pemohon atau Kuasa yang disertai jangka waktu pemenuhannya sesuai dengan peraturan perundang-undangan.3. Dalam hal tanggapan memuat perubahan terhadap Klaim, Pemeriksa harus memeriksa perubahan klaim tersebut.4. Dalam hal perubahan Klaim tersebut tidak memenuhi ketentuan, Pemeriksa harus memberitahukan hal tersebut secara tertulis kepada Pemohon atau kuasanya, yang disertai jangka waktu pemenuhannya sesuai dengan peraturan perundang-undangan.6. Pemberitahuan harus memuat secara jelas dan rinci disertai dengan alasan dan acuan pembanding yang digunakan dalam pemeriksaan substantif.7. Pemberitahuan tersebut dapat juga memuat saran untuk perbaikan.
+151.   Apa yang dilakukan pemeriksan apabila pemeriksaan substantif dilakukan terhadap permohonan dengan hak prioritas (Dalam Paten)?|Dalam hal pemeriksaan substantif dilakukan terhadap permohonan dengan Hak Prioritas, Pemeriksa dapat meminta kepada Pemohon dan/atau kantor Paten diNegara asal Hak Prioritas atau di negara lain mengenai kelengkapan dokumen berupa:1. salinan sah surat yang berkaitan dengan hasil pemeriksaan substantif yang dilakukan terhadap Pemohon Paten yang pertama kali di luar negeri;2. salinan sah dokumen Paten yang telah diberikan sehubungan dengan Permohonan Paten yang pertama kali di luar negeri;3. salinan sah keputusan mengenai penolakan atas Permohonan Paten yang pertama kali di luar negeri dalam hal Permohonan Paten dimaksud ditolak;4. salinan sah keputusan penghapusan Paten yang pernah dikeluarkan di luar negeri dalam hal Paten dimaksud pernah dihapuskan; dan/atau5. dokumen lain yang diperlukan. 6. Dalam hal kelengkapan dokumen berbahasa asing, Pemeriksa dapat meminta terjemahan dalam bahasa inggris atau bahasa Indonesia. 7. dokumen-dokumen terebut diatas dapat dijadikan dasar pertimbangan pemeriksa dalam memberikan keputusan menyetujui atau menolak permohonan dengan hak prioritas.
+152.   Bagaimana apabila dalam pemeriksaan substantif, pemeriksa menilai suatu permohonan terdiri dari beberapa invensi atau kelompok invensi (Dalam Paten)?|1. Apabila selama proses pemeriksaan substantif, Pemeriksa menilai suatu Permohonan terdiri atas beberapa Invensi atau beberapa kelompok Invensi yang tidak merupakan satu kesatuan Invensi sehingga perlu dilakukan Divisional Permohonan maka Pemeriksa memberitahukan kepada Pemohon atau Kuasa untuk melakukan Divisional Permohonan.2. Pengajuan Divisional Permohonan dilakukan paling lama 3 (tiga) bulan sejak tanggal surat jawaban Pemohon setuju untuk Divisional Permohonan.3. Dalam jangka waktu tersebut, Pemeriksa tidak boleh memberikan keputusan akhir Permohonan Paten semula.
+153.   Bagaimana tata cara penarikan kembali permohonan Paten?|1. Pemohon dapat mengajukan penarikan kembali Permohonan, melalui surat permintaan penarikan kembali permohonan atau surat untuk menghentikan atau untuk tidak melanjutkan permohonan. 2. biaya-biaya yang telah dibayarkan tidak dapat ditarik kembali. 3. Penarikan kembali permohonan diberitahukan kepada pemohon atau kuasanya.
