@@ -82,24 +82,7 @@ def get_best_answer(question):
 
         # returned data for option, need more logic to meet all the question level
         data = {
-            'content': answer,
-            'content_type': 'input_select',
-            'content_attributes': {
-                "items": [
-                    {
-                        "title": "Apa itu Paten",
-                        "value": "apa yang dimaksud paten"
-                    },
-                    {
-                        "title": "Apa itu invensi",
-                        "value": "apa yang dimaksud invensi"
-                    },
-                    {
-                        "title": "Apa itu Paten Sederhana",
-                        "value": "apa yang dimaksud paten sederhana"
-                    }
-                ],
-            },
+            'content': answer
         }
 
         return data
@@ -116,7 +99,20 @@ def get_best_answer(question):
 
             # returned data for similar question, need more logic to escalate the option
             data = {
-                'content': answer
+                'content': answer,
+                'content_type': 'input_select',
+                'content_attributes': {
+                    "items": [
+                        {
+                            "title": "Ya",
+                            "value": similar_questions
+                        },
+                        {
+                            "title": "Bertanya ke live agent",
+                            "value": "live agent"
+                        }
+                    ],
+                },
             }
         else:
             answer = "Maaf, saya tidak mengerti pertanyaan yang dimaksud. Kami akan menyambungkan anda dengan agent kami"
@@ -130,24 +126,14 @@ def get_best_answer(question):
 
 def greet():
     data = {
-        'content': 'Halo selamat datang, bot kami akan membantu Anda.',
-        'content_type': 'input_select',
-        'content_attributes': {
-            "items": [
-                {
-                    "title": "Apa itu Paten",
-                    "value": "apa yang dimaksud paten"
-                },
-                {
-                    "title": "Apa itu invensi",
-                    "value": "apa yang dimaksud invensi"
-                },
-                {
-                    "title": "Apa itu Paten Sederhana",
-                    "value": "apa yang dimaksud paten sederhana"
-                }
-            ],
-        },
+        'content': 'Halo selamat datang, silahkan bertanya. Bot kami akan membantu anda'
+    }
+
+    return data
+
+def live_agent():
+    data = {
+        'content': 'Kami akan menghubungkan anda dengan live agent kami, mohon untuk menunggu'
     }
 
     return data
@@ -188,14 +174,14 @@ def bot():
     data = request.get_json()
     content_type = data['content_type']
     message_type = data['message_type']
-        
-    if(keys_exists(data, 'content_attributes', 'submitted_values') == True and message_type == 'outgoing' and content_type == 'input_select'):
+    
+    if(keys_exists(data, 'content_attributes', 'submitted_values') == True and message_type == 'outgoing' and content_type == 'input_select' and data['content_attributes']['submitted_values'][0]['value'] == 'live agent'):
         message = data['content_attributes']['submitted_values'][0]['value']
         conversation = data['conversation']['id']
         contact = data['sender']['id']
         account = data['account']['id']
 
-        bot_response = get_best_answer(message)
+        bot_response = live_agent(message)
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
         
@@ -207,7 +193,7 @@ def bot():
         contact = data['sender']['id']
         account = data['account']['id']
 
-        bot_response = greet()
+        bot_response = get_best_answer(message)
         create_message = send_to_chatwoot(
             account, conversation, bot_response)
         
