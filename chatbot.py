@@ -174,6 +174,7 @@ def bot():
     data = request.get_json()
     content_type = data['content_type']
     message_type = data['message_type']
+    pprint(data)
     
     if(keys_exists(data, 'content_attributes', 'submitted_values') == True and message_type == 'outgoing' and content_type == 'input_select' and data['content_attributes']['submitted_values'][0]['value'] == 'live agent'):
         message = data['content_attributes']['submitted_values'][0]['value']
